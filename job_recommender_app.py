@@ -4,7 +4,7 @@ import pandas as pd
 import pca_chart as pc
 #from matplotlib import pyplot as plt
 #import matplotlib.pyplot as plt
-import matplotlib as plt
+#import matplotlib as plt
 #from matplotlib import pyplot as plt
 import word_similarity
 import pickle
